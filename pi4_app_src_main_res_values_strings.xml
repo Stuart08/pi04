@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">pi4</string>
+    <string name="usuario">Usuario</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+    <string name="btLogin">Logar</string>
+    <string name="btCadastra">Cadastre-se</string>
+    <string name="digite_sua_senha">Digite sua Senha</string>
+    <string name="digite_seu_usuario">Digite seu usuario</string>
+</resources>
